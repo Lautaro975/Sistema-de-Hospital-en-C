@@ -1,0 +1,1237 @@
+# depslib dependency file v1.0
+1699750190 source:c:\users\anahi\desktop\final tp labo ii\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699750149 c:\users\anahi\desktop\final tp labo ii\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699750228 source:c:\users\anahi\desktop\final tp labo ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"turno.h"
+
+1699749586 source:c:\users\anahi\desktop\final tp labo ii\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+
+1699749586 c:\users\anahi\desktop\final tp labo ii\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+
+1699823846 source:c:\users\anahi\desktop\final tp labo ii - copia\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1699823846 c:\users\anahi\desktop\final tp labo ii - copia\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699823846 source:c:\users\anahi\desktop\final tp labo ii - copia\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1699823846 c:\users\anahi\desktop\final tp labo ii - copia\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+
+1699824404 source:c:\users\anahi\desktop\final tp labo ii - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1699801150 c:\users\anahi\desktop\final tp labo ii - copia\usuario.h
+
+1699801152 source:c:\users\anahi\desktop\final tp labo ii - copia\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+
+1699826411 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1699823846 c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699826411 c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1699825884 c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+
+1699823846 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1699825968 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1699826411 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+
+1699887904 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1699831354 c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699831340 c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1699831260 c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+
+1699831118 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1699831317 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1699894067 source:c:\users\anahi\desktop\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"medico-h.h"
+	"turno.h"
+
+1700057445 source:c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1700057446 c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700062663 c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700057446 c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+
+1700057446 source:c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700061316 source:c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"medico-h.h"
+	"turno.h"
+
+1700062664 source:c:\users\lauta\onedrive\escritorio\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1700260423 source:c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1700057448 c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700062664 c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700259215 c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+
+1700257498 source:c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1700254996 source:c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"medico-h.h"
+	"turno.h"
+
+1700260273 source:c:\users\anahi\desktop\final tp labo ii - n\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700257498 source:c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1700057448 c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700062664 c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700313512 c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+
+1700254996 source:c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"medico-h.h"
+	"turno.h"
+
+1700314129 source:c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1700314103 source:c:\users\anahi\desktop\final tp labo ii - n - copia\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700327120 source:c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1700319156 c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700327049 c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700319125 c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+	"Usuario.h"
+
+1700314788 source:c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1700319095 source:c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700327062 source:c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"medico-h.h"
+	"turno.h"
+
+1700327055 source:c:\users\ilcap\onedrive\escritorio\facultad\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+
+1700327056 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+
+1700349646 c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700319126 c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+	"Usuario.h"
+
+1700319158 c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700351182 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1700314790 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	"medico-h.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+	"turno.h"
+
+1700350953 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700350540 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"medico-h.h"
+	"turno.h"
+
+1700407473 source:c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico-h.h"
+	"Usuario.h"
+	"windows.h"
+	"turno.h"
+
+1700507806 c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700508121 c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+
+1700507728 c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+
+1700407474 source:c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+	"time.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700508479 source:c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+
+1700507982 c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700508074 c:\users\ilcap\onedrive\escritorio\facultad\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700508480 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+
+1700583610 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700583610 c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700578899 c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700578679 c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700508336 c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700583232 c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+
+1700583232 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700585422 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700508042 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700584836 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700583810 source:c:\users\anahi\desktop\tp final labo ullltima actualizacion (2)\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700589740 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700585848 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700589740 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700585848 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700585848 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700594430 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700585848 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700585848 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700594517 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700585848 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700589740 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700594344 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700592476 source:c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700594418 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700592476 c:\users\ilcap\onedrive\escritorio\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700660038 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700585850 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700589742 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700585850 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700663487 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700620521 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700661490 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700661490 c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700589742 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700661490 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700663487 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+
+1700585850 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700661490 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700663487 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700589742 source:c:\users\anahi\desktop\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700663854 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700663854 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700676613 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700684408 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700681783 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700663854 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700663854 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700663854 c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700663854 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700663854 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700676613 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700676613 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700676613 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700684443 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700684408 source:c:\users\ilcap\onedrive\escritorio\tp final version 21.11\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+
+1700716450 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700710939 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700710939 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700710939 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700711335 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+	"programaEjecutar.h"
+
+1700710939 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700710939 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700710939 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700716026 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700717674 source:c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\programaejecutar.c
+	"programaEjecutar.h"
+
+1700716881 c:\users\anahi\desktop\tp final 00\tp final labo ullltima actualizacion 21.11\tp final labo ullltima actualizacion\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\programaejecutar.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+
+1700718333 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700718334 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700718964 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700721917 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700721917 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700718333 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700718334 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700718334 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700718334 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700718334 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700718334 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+	"programaEjecutar.h"
+
+1700722746 c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\programaejecutar.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+
+1700721917 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700718334 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700721917 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700718964 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700722807 source:c:\users\ilcap\onedrive\escritorio\definitivo ahora si\copia tp final\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\programaejecutar.c
+	"programaEjecutar.h"
+
+1700738676 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700738676 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.h
+	"Usuario.h"
+
+1700738677 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700738677 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.h
+	"medico-h.h"
+
+1700738677 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-h.h
+
+1700738676 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700738677 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700738676 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700738676 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700738676 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700738676 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+	"programaEjecutar.h"
+
+1700738677 c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\programaejecutar.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+
+1700740855 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700738677 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700738677 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\turno.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"turno.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700741755 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\programaejecutar.c
+	"programaEjecutar.h"
+
+1700739336 source:c:\users\anahi\desktop\tp labo ii final definitivo\final tp labo ii - ultima actualizacion\final tp labo ii - ver elegir turnos -pruebaaa\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
+1700738676 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+	"Usuario.h"
+
+1700738676 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\listasdoblefila.h
+	"Usuario.h"
+
+1700738677 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\usuario.h
+	"turno.h"
+	"medico-h.h"
+
+1700738677 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\turno.h
+	"medico-h.h"
+
+1700738677 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\medico-h.h
+
+1700738676 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\fila.h
+	"ListasDobleFila.h"
+	"Pila.h"
+
+1700738677 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\pila.h
+	"ListaSimplePila.h"
+	"medico-h.h"
+	"Usuario.h"
+
+1700738676 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\listasimplepila.h
+	"Pila.h"
+	"Usuario.h"
+
+1700738676 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\listasdoblefila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ListasDobleFila.h"
+	"Fila.h"
+
+1700738676 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\listasimplepila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700738676 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+	"programaEjecutar.h"
+
+1700738677 c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\programaejecutar.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+	"Pila.h"
+	"ListaSimplePila.h"
+
+1700740855 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\medico-c.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"medico-h.h"
+	"Usuario.h"
+	"turno.h"
+
+1700738677 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1700741755 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\programaejecutar.c
+	"programaEjecutar.h"
+
+1700739336 source:c:\users\anahi\desktop\entrega tp final laboratorio ii\programa hospital\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Usuario.h"
+	"turno.h"
+	"medico-h.h"
+	"Fila.h"
+	"ListasDobleFila.h"
+
